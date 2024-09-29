@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ocktowye.github.io/sitemap.html.gz
+Sitemap: https://ocktowye.github.io/app/sitemap.html.gz
+Sitemap: https://ocktowye.github.io/assets/sitemap.html.gz
+Sitemap: https://ocktowye.github.io/css/sitemap.html.gz
+Sitemap: https://ocktowye.github.io/data/sitemap.html.gz
+Sitemap: https://ocktowye.github.io/includes/sitemap.html.gz
+Sitemap: https://ocktowye.github.io/item/sitemap.html.gz
+Sitemap: https://ocktowye.github.io/src/sitemap.html.gz
